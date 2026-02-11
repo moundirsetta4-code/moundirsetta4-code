@@ -31,3 +31,11 @@ dans les domaines financiers, la détection d’anomalies et l’aide à la déc
 
 Combiner Finance & Intelligence Artificielle
 pour développer des solutions d’analyse intelligente.
+
+---
+
+## 📊 GitHub Stats
+
+![Moundir's GitHub stats](https://github-readme-stats.vercel.app/api?username=moundirsetta4-code&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moundirsetta4-code&layout=compact)
