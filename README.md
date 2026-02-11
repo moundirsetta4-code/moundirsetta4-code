@@ -39,3 +39,8 @@ pour développer des solutions d’analyse intelligente.
 ![Moundir's GitHub stats](https://github-readme-stats.vercel.app/api?username=moundirsetta4-code&show_icons=true&theme=default)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moundirsetta4-code&layout=compact)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![Finance](https://img.shields.io/badge/Finance-0A66C2?style=for-the-badge)
+![Audit](https://img.shields.io/badge/Audit-4CAF50?style=for-the-badge)
