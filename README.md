@@ -1,16 +1,33 @@
-## Hi there 👋
+# Moundir Setta
 
-<!--
-**moundirsetta4-code/moundirsetta4-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Licence en Comptabilité  
+🎓 Master en Audit & Finance  
+💻 Étudiant en Intelligence Artificielle (4e étape)
 
-Here are some ideas to get you started:
+## Profil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Professionnel avec une double expertise :
+- Finance & Audit
+- Intelligence Artificielle
+
+Je m’intéresse à l’application du Machine Learning et de l’analyse de données
+dans les domaines financiers, la détection d’anomalies et l’aide à la décision.
+
+## Compétences
+
+- Analyse financière
+- Audit & contrôle
+- Python
+- Machine Learning
+- Analyse de données
+- Git / GitHub
+
+## Projets IA
+
+- Projet MLflow & DagsHub
+- Projet BiblioTech
+
+## Objectif
+
+Combiner Finance & Intelligence Artificielle
+pour développer des solutions d’analyse intelligente.
