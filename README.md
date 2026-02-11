@@ -1,6 +1,6 @@
 # Moundir Setta
 
-🎓 Licence en informatique
+🎓 Licence en comptabilite 
 🎓 Master en Audit & Finance  
 🎓 Licence en informatique 
 💻 Étudiant en Intelligence Artificielle (4e étape)
