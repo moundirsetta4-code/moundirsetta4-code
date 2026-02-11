@@ -44,3 +44,16 @@ pour développer des solutions d’analyse intelligente.
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 ![Finance](https://img.shields.io/badge/Finance-0A66C2?style=for-the-badge)
 ![Audit](https://img.shields.io/badge/Audit-4CAF50?style=for-the-badge)
+
+---
+
+## 🚀 Projets phares
+
+### 🔎 Détection d’anomalies en finance (IA)
+Application du Machine Learning pour analyser des données et identifier des comportements inhabituels.
+
+### 📊 Analyse et traçabilité ML (MLflow & DagsHub)
+Suivi d’expériences et structuration professionnelle d’un projet IA.
+
+### 📚 Projet BiblioTech
+Projet complet avec organisation, documentation et gestion des données.
