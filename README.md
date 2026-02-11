@@ -2,6 +2,7 @@
 
 🎓 Licence en Comptabilité  
 🎓 Master en Audit & Finance  
+🎓 Licence en informatique 
 💻 Étudiant en Intelligence Artificielle (4e étape)
 
 ## Profil
